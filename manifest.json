@@ -1,15 +1,15 @@
 {
     "name": "reitschuster.de",
-    "description": "Wrapper für den Blog von Boris Reitschuster",
+    "description": "Webbrowser auf ubuntu-touch für den Blog von Boris Reitschuster",
     "architecture": "all",
-    "title": "Reitschuster",
+    "title": "reitschuster",
     "hooks": {
         "-deutsch": {
             "apparmor": "reitschuster.apparmor",
             "desktop":  "reitschuster.desktop"
         }
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "maintainer": "Johan H van Breda <johan.van.breda@protonmail.com>",
     "framework" : "ubuntu-sdk-15.04.5"
 }
