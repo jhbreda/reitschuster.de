@@ -1,0 +1,7 @@
+  [Desktop Entry]
+  Name=Reitschuster
+  Exec=webapp-container --webappUrlPatterns=https?://reitschuster.de/* https://reitschuster.de
+Icon=logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
